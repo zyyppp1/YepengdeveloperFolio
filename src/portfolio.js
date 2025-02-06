@@ -23,7 +23,7 @@ const greeting = {
   username: "Joey Zhu",
   title: "Hi all, I'm Joey",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer🚀 2024 Graduate in London,earned £2000+ with self-made scripts in two weeks.Hands-on experiences in both frontend and backend.(🤫If you want to know 10 best chinese restaurants reach out to me!)"
+    "A passionate Full Stack Software Developer🚀 2024 Graduate in London,earned £2000+ with self-made scripts in two weeks.Hands-on experiences in both frontend and backend.(🤫If you want to know the top 10 chinese restaurants in London,reach out to me!)"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1WZ6e5LVyyOYKwNuNQmSvgpZunmUKJ_DY/view?usp=drive_link", // Set to empty to hide the button
