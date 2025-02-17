@@ -110,7 +110,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
     skillName: "golang",
-    fontAwesomeClassname: "fab fa-golang" // add Golang
+    fontAwesomeClassname: require("./assets/images/golang.svg") // 确保你有这个 SVG 文件
     }
   ],
   display: true // Set false to hide this section, defaults to true
