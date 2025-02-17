@@ -109,8 +109,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     },
     {
-    skillName: "golang",
-    fontAwesomeClassname: require("./assets/images/golang.svg") // 确保你有这个 SVG 文件
+      skillName: "golang",
+      fontAwesomeClassname: require("./assets/images/golang.svg") // 确保你有这个 SVG 文件
     }
   ],
   display: true // Set false to hide this section, defaults to true
