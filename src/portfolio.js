@@ -251,7 +251,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View SAA Certification",
-          url: "https://www.udemy.com/certificate/UC-c012515b-9b18-49d3-ab69-0a8e44871f73/"
+          url: "https://www.credly.com/badges/85644d72-bd7a-4a9e-aaea-39a71fd1f10c/linked_in_profile"
         }
       ]
     },
