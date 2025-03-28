@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer🚀 2024 Graduate in London,earned £2000+ with self-made scripts in two weeks.Hands-on experiences in both frontend and backend.(🤫If you want to know the top 10 chinese restaurants in London,reach out to me!)"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1WZ6e5LVyyOYKwNuNQmSvgpZunmUKJ_DY/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Cj86hYrENaMzVw_8D5RpeL3ZphLFvy2C/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
