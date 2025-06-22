@@ -173,9 +173,8 @@ const workExperiences = {
       companylogo: require("./assets/images/EVBG.png"),
       date: "Jul 2022 – Mar 2023",
       descBullets: [
-        "In an agile development team using Scrum .Successfully validating 31 version updates in 8 months.",
-        "Managing over 500 web test cases,automated over 200 test scenarios using Selenium, significantly reducing manual testing efforts and accelerating release cycles by 25-30%.",
-        "Once new issues arose,worked with front-end and back-end developers to promptly resolve them,creating targeted test cases as necessary to ensure thorough validation."
+        "Collaborated in a Scrum team to test web and mobile releases, maintain accurate logs of defects and test cases in Jira, work with R&D to debug, delivered 31 version updates over 8 months.",
+        "Designed API test case with Postman, executed 500 manual test cases every release, automated 200+ using Selenium, leading to a 35% reduction in manual testing time."
       ]
     },
     {
