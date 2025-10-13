@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/zyyppp1",
-  linkedin: "https://www.linkedin.com/in/joey-zhu-9b0021314/",
+  linkedin: "https://www.linkedin.com/in/yepeng-zhu-9b0021314/",
   gmail: "joey.yepeng@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
