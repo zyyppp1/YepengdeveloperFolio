@@ -170,7 +170,7 @@ const workExperiences = {
     {
       role: "Backend Engineer",
       company: "SpinnrTech",
-      companylogo: require("./assets/images/EVBG.D.png"),
+      companylogo: require("./assets/images/spinnrtech_red.avif"),
       date: "Jul 2025 – Present",
       descBullets: [
         "Developed secure, high-performance RESTful APIs and microservices using Node.js, Go, and Lua for order tracking, settlement, and refund workflows with idempotent transaction handling.",
@@ -269,7 +269,7 @@ const achievementSection = {
       title: "The Complete Full-Stack Web Development Bootcamp",
       subtitle:
         "Udemy · Issued Oct 2025 · Credential ID UC-04d9d0f3-4d7b-49c1-a681-1cb0a49830d9",
-      image: require("./assets/images/logo.svg"),
+      image: require("./assets/images/Udemy Logo.svg"),
       imageAlt: "Full-Stack Web Development Bootcamp Certificate",
       footerLink: [
         {
@@ -282,7 +282,7 @@ const achievementSection = {
       title: "Python Data Structures & Algorithms + LEETCODE Exercises",
       subtitle:
         "Udemy · Credential ID UC-3fee7427-f354-4a7d-b6ac-3bc81d0e4dd9",
-      image: require("./assets/images/golang.svg"),
+      image: require("./assets/images/Udemy Logo.svg"),
       imageAlt: "Python Data Structures & Algorithms Certificate",
       footerLink: [
         {
