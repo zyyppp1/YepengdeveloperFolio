@@ -266,6 +266,19 @@ const achievementSection = {
       ]
     },
     {
+      title: "The Complete Full-Stack Web Development Bootcamp",
+      subtitle:
+        "Udemy · Issued Oct 2025 · Credential ID UC-04d9d0f3-4d7b-49c1-a681-1cb0a49830d9",
+      image: require("./assets/images/logo.svg"),
+      imageAlt: "Full-Stack Web Development Bootcamp Certificate",
+      footerLink: [
+        {
+          name: "View Credential",
+          url: "https://www.udemy.com/certificate/UC-04d9d0f3-4d7b-49c1-a681-1cb0a49830d6/?trk=public_profile_see-credential"
+        }
+      ]
+    },
+    {
       title: "Python Data Structures & Algorithms + LEETCODE Exercises",
       subtitle:
         "Udemy · Credential ID UC-3fee7427-f354-4a7d-b6ac-3bc81d0e4dd9",
