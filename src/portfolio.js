@@ -170,7 +170,7 @@ const workExperiences = {
     {
       role: "Backend Engineer",
       company: "SpinnrTech",
-      companylogo: require("./assets/images/SpinnrTech.png"),
+      companylogo: require("./assets/images/SPT.png"),
       date: "Jul 2025 – Present",
       descBullets: [
         "Developed secure, high-performance RESTful APIs and microservices using Node.js, Go, and Lua for order tracking, settlement, and refund workflows with idempotent transaction handling.",
