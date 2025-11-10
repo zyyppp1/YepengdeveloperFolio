@@ -168,6 +168,17 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Backend Engineer",
+      company: "SpinnrTech",
+      companylogo: require("./assets/images/EVBG.D.png"),
+      date: "Jul 2025 – Present",
+      descBullets: [
+        "Developed secure, high-performance RESTful APIs and microservices using Node.js, Go, and Lua for order tracking, settlement, and refund workflows with idempotent transaction handling.",
+        "Implemented comprehensive logging, error handling, and monitoring to ensure observability and resilience in production environments.",
+        "Applied encryption and authentication layers that meet enterprise-grade security standards."
+      ]
+    },
+    {
       role: "QA engineer / Software Engineer in Test",
       company: "Everbridge",
       companylogo: require("./assets/images/EVBG.png"),
@@ -251,6 +262,19 @@ const achievementSection = {
         {
           name: "View SAA Certification",
           url: "https://www.credly.com/badges/85644d72-bd7a-4a9e-aaea-39a71fd1f10c/linked_in_profile"
+        }
+      ]
+    },
+    {
+      title: "Python Data Structures & Algorithms + LEETCODE Exercises",
+      subtitle:
+        "Udemy · Credential ID UC-3fee7427-f354-4a7d-b6ac-3bc81d0e4dd9",
+      image: require("./assets/images/golang.svg"),
+      imageAlt: "Python Data Structures & Algorithms Certificate",
+      footerLink: [
+        {
+          name: "View Credential",
+          url: "https://www.udemy.com/certificate/UC-3fee7427-f354-4a7d-b6ac-3bc81d0e4dd9/?trk=public_profile_see-credential"
         }
       ]
     },
