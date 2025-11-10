@@ -281,7 +281,7 @@ const achievementSection = {
     {
       title: "Python Data Structures & Algorithms + LEETCODE Exercises",
       subtitle:
-        "Udemy · Credential ID UC-3fee7427-f354-4a7d-b6ac-3bc81d0e4dd9",
+        "Udemy · Issued Mar 2025 · Credential ID UC-3fee7427-f354-4a7d-b6ac-3bc81d0e4dd9",
       image: require("./assets/images/UdemyLogo.png"),
       imageAlt: "Python Data Structures & Algorithms Certificate",
       footerLink: [
