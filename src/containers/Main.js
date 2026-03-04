@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from "react";
 import Header from "../components/header/Header";
 import Greeting from "./greeting/Greeting";
+import AiChat from "../components/AiChat/AiChat"; // 👈 新增这行
 import Skills from "./skills/Skills";
 import StackProgress from "./skillProgress/skillProgress";
 import WorkExperience from "./workExperience/WorkExperience";
@@ -65,6 +66,7 @@ const Main = () => {
           </>
         )}
       </StyleProvider>
+      <AiChat />
     </div>
   );
 };
