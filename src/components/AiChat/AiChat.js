@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { CreateMLCEngine } from '@mlc-ai/web-llm';
 
 export default function AiChat() {
   const [isOpen, setIsOpen] = useState(false);
